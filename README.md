@@ -51,39 +51,30 @@ _(Live demo link if hosted)_
     ├── routes/               # authRoutes, githubRoutes, bookmarkRoutes
     ├── middleware/           # authMiddleware.js
     └── server.js
-🚀 Setup Instructions
-1. Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/OpenSourceMatch.git
-cd OpenSourceMatch
-2. Setup Backend
-bash
-Copy
-Edit
-cd server
-npm install
-touch .env
-.env file:
 
-env
-Copy
-Edit
+```
+
+#🚀 Setup Instructions
+  # 1. Clone the repository
+      git clone https://github.com/yourusername/OpenSourceMatch.git
+      cd OpenSourceMatch
+  # 2. Setup Backend
+      cd server
+      npm install
+      touch .env
+#.env file:
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
-bash
-Copy
-Edit
+# Run
 npm run dev
-3. Setup Frontend
-bash
-Copy
-Edit
+
+# 3. Setup Frontend
+
 cd client
 npm install
 npm run dev
+
 Visit: http://localhost:5173
 
 🔐 Environment Variables
@@ -109,5 +100,5 @@ POST /api/bookmarks/add – Save a repo
 
 GET /api/bookmarks/all – Get user’s saved repos
 
-✨ Credits
+#✨ Credits
 Made with 💖 by Siddhi Nagapure
