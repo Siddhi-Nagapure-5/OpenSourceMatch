@@ -9,8 +9,8 @@ A full-stack MERN application that helps developers discover **open-source GitHu
 
 ## 📸 Demo
 
-https://user-open-source-match.vercel.app  
-_(Live demo link if hosted)_  
+![Uploading image.png…]()
+
 
 ---
 
