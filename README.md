@@ -9,7 +9,8 @@ A full-stack MERN application that helps developers discover **open-source GitHu
 
 ## 📸 Demo
 
-![Uploading image.png…]()
+![Screenshot 2025-06-26 225014](https://github.com/user-attachments/assets/70e0674f-11fb-4706-94e4-7c6e225ae9d3)
+
 
 
 ---
