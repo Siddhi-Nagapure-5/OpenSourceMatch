@@ -71,34 +71,19 @@ npm run dev
 
 # 3. Setup Frontend
 
-cd client
-npm install
-npm run dev
+cd client<br>
+npm install<br>
+npm run dev<br>
 
 Visit: http://localhost:5173
 
-🔐 Environment Variables
-MONGO_URI – MongoDB connection string
+#🔐 Environment Variables
+MONGO_URI – MongoDB connection string<br>
 
-JWT_SECRET – JWT secret for authentication
+JWT_SECRET – JWT secret for authentication<br>
 
-PORT – Express server port (default: 5000)
+PORT – Express server port (default: 5000)<br>
 
-✅ API Endpoints
-🔐 Auth
-POST /api/auth/register
-
-POST /api/auth/login
-
-GET /api/auth/profile
-
-📦 GitHub Integration
-POST /api/github/match – Get recommended repos by skills
-
-📌 Bookmarks
-POST /api/bookmarks/add – Save a repo
-
-GET /api/bookmarks/all – Get user’s saved repos
 
 #✨ Credits
 Made with 💖 by Siddhi Nagapure
