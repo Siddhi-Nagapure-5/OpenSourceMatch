@@ -58,38 +58,50 @@ A full-stack MERN application that helps developers discover **open-source GitHu
 #🚀 Setup Instructions
 ---
 ---
+```
   # 1. Clone the repository
       git clone https://github.com/yourusername/OpenSourceMatch.git
       cd OpenSourceMatch
+```
+```
   # 2. Setup Backend
       cd server
       npm install
       touch .env
-#.env file:
+```
+```
+### .env file:
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
+```
+```
 # Run
 npm run dev
+```
 
+```
 # 3. Setup Frontend
 
 cd client<br>
 npm install<br>
 npm run dev<br>
+```
 
+```
 Visit: http://localhost:5173
 
+```
+```
 #🔐 Environment Variables
 MONGO_URI – MongoDB connection string<br>
-
 JWT_SECRET – JWT secret for authentication<br>
-
 PORT – Express server port (default: 5000)<br>
-
+```
 ---
 ---
 #✨ Credits
 Made with  by Siddhi Nagapure
 
 ---
+
