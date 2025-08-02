@@ -54,8 +54,10 @@ A full-stack MERN application that helps developers discover **open-source GitHu
     └── server.js
 
 ```
-
+---
 #🚀 Setup Instructions
+---
+---
   # 1. Clone the repository
       git clone https://github.com/yourusername/OpenSourceMatch.git
       cd OpenSourceMatch
@@ -85,6 +87,9 @@ JWT_SECRET – JWT secret for authentication<br>
 
 PORT – Express server port (default: 5000)<br>
 
-
+---
+---
 #✨ Credits
-Made with 💖 by Siddhi Nagapure
+Made with  by Siddhi Nagapure
+
+---
